@@ -1,0 +1,22 @@
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    background-color: lightgreen;
+    font-size: 40px;
+}
+
+nav {
+    background:indianred;
+}
+
+p {
+    color: blue;    
+    font-style: oblique;
+}
+
+h2 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li {
+    font-style: italic;
+}
