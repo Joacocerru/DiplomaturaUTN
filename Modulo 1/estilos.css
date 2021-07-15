@@ -2,10 +2,7 @@ h1 {
     font-family:'Courier New', Courier, monospace;
     background-color: lightgreen;
     font-size: 40px;
-}
-
-nav {
-    background:indianred;
+    width: 375px;
 }
 
 p {
@@ -19,4 +16,19 @@ h2 {
 
 li {
     font-style: italic;
+}
+
+.contacto {
+    background-color: rgb(76, 171, 226);
+    width: 415px;
+    height: 175px;
+}
+
+.foto {
+    border-radius: 15px;
+    box-shadow: 0 0 10px #888; 
+}
+
+.video{
+    box-shadow: 0 0 20px rgb(28, 5, 82);
 }
