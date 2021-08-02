@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+.contenedor {
+    height: 500px;
+    width: 500px;
+    background-color:white;
+    display:flex;
+    justify-content: flex-end;
+    flex-direction:row-reverse;
+    align-items:center;
+    justify-content: space-between;
+    border: 10px black;
+}
+
+.item1 {
+    display: flex;
+    background-color: red;
+    color: white;
+    height: 175px;
+    width: 175px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.item2 {
+    display: flex;
+    background-color: blue;
+    color: white;
+    height: 175px;
+    width: 175px;
+    justify-content: center;
+    align-items: center;
+}
+
+.item3 {
+    display: flex;
+    background-color: green;
+    color: white;
+    height: 175px;
+    width: 175px;
+    justify-content: center;
+    align-items: center;
+}
